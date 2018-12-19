@@ -3,7 +3,6 @@ structure: <br/>
 ![alt ss](https://github.com/yusufbasol/qt/blob/master/src/qt-notepad%20app/ss.png)
 
 features: <br/>
-
   * open
   * save
   * print
