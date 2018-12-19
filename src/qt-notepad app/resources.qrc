@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>if_Cancel_1493282.png</file>
+        <file>if_print_printer_printing_raw_simple_392497.png</file>
+        <file>if_save_173091.png</file>
+        <file>if_add_134224.png</file>
+        <file>if_Open-Sign_379430.png</file>
+        <file>if_Redo_1493284.png</file>
+        <file>if_Undo_1493283.png</file>
+        <file>if_cut_172590.png</file>
+        <file>if_paste_1608782.png</file>
+        <file>if_edit-copy_118918.png</file>
+    </qresource>
+</RCC>
